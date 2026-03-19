@@ -1,0 +1,11 @@
+# Java build artifacts
+*.class
+out/
+
+# Temporary and Output files
+test_output.txt
+~$*.xlsx
+
+# Python artifacts (if any remain)
+__pycache__/
+*.pyc
